@@ -1,0 +1,14 @@
+layout_spectrum: 0.268488063942641
+typography_spectrum: 0.712277127429843
+color:
+  brandStrength: 0.21206983854062855
+  lightness: 0.7576705757528543
+  saturation: 0.6665649013593793
+  rhythmicContrast: 0.09921827143989503
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+name: IO-990
