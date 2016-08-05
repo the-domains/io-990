@@ -6,9 +6,9 @@ color:
   saturation: 0.6665649013593793
   rhythmicContrast: 0.09921827143989503
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: IO-990
